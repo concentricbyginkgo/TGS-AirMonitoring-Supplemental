@@ -2,7 +2,7 @@
 
 ## Environmental air monitoring in international airports: A novel approach for enhanced pathogen surveillance
 
-Dawn Gratalo<sup>1</sup>, Cindy R.Friedman<sup>3</sup> Valerie J. Morley<sup>1</sup>,Xueting Qiu<sup>1,4</sup>, Ian Ruskey<sup>3</sup>,Andy Rothstein<sup>1</sup>,  Patrick B. Tiburcio<sup>2</sup>, Casandra W. Philipson<sup>1,4</sup>,Thomas W.S. Aichele<sup>1,4</sup>, Steve Bart<sup>3,4</sup>, Dustin Jaynes<sup>5</sup> , Birgitte B Simen<sup>1</sup>, Shelby L O’Connor<sup>2</sup>, David H O’Connor<sup>2</sup>
+Dawn Gratalo<sup>1</sup>, Cindy R.Friedman<sup>3</sup> Valerie J. Morley<sup>1</sup>,Xueting Qiu<sup>1,4</sup>, Ian Ruskey<sup>3</sup>,Andrew P. Rothstein<sup>1</sup>,  Patrick B. Tiburcio<sup>2</sup>, Casandra W. Philipson<sup>1,4</sup>,Thomas W.S. Aichele<sup>1,4</sup>, Steve Bart<sup>3,4</sup>, Dustin Jaynes<sup>5</sup> , Birgitte B Simen<sup>1</sup>, Shelby L O’Connor<sup>2</sup>, David H O’Connor<sup>2</sup>
 
 ###
 <sup>1</sup> Ginkgo Biosecurity, 27 Drydock Ave 8th Floor, Boston, MA, USA <br />
